@@ -1,7 +1,7 @@
 import { StyleSheet } from 'react-native';
 
 const borderWidth = 3;
-const margin = 1;
+const margin = 6;
 const maxContainerHeight = 100;
 const Styles = StyleSheet.create({
   container: {
